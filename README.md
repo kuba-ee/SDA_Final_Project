@@ -2,7 +2,9 @@
 Group A (Mushrooms) final project in SDA
 
 This is the repository for Aleksei, Artur, Sveta and Natalja to work on final project of SDA couse of Data Science.
+
 We decided to look at Beijing air pollution in years 2013-2017
+
 Our presentation: https://docs.google.com/presentation/d/1WByRIJb8ws0bU-9rku7T6qE8NcQ44Zl8/edit#slide=id.g26118c63502_4_5 
 
 # AQI claculation formula:
