@@ -10,6 +10,11 @@ Taken from here: https://www.kaggle.com/code/oluchiai/calculating-aqi-air-qualit
 
 ![image](https://github.com/Natashik85/SDA_Final_Project/assets/117021989/a2e941cb-89a7-418b-a2c1-aef6bd1aa352)
 
+and here: https://www.civilsdaily.com/news/air-quality-index-aqi/ 
+
+![image](https://github.com/Natashik85/SDA_Final_Project/assets/117021989/f220901a-7adb-4701-b889-a70fc0650f90)
+
+
 
 # AQI Indext bucketing:
 
