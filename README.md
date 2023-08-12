@@ -1,13 +1,13 @@
 # SDA_Final_Project
 Group A (Mushrooms) final project in SDA
 
-This is the repository for Aleksei, Artur, Sveta and Natalja to work on final project of SDA couse of Data Science.
+This is the repository for Aleksei, Artur, Sveta and Natalja to work on final project of SDA course of Data Science.
 
 We decided to look at Beijing air pollution in years 2013-2017
 
 Our presentation: https://docs.google.com/presentation/d/1WByRIJb8ws0bU-9rku7T6qE8NcQ44Zl8/edit#slide=id.g26118c63502_4_5 
 
-# AQI claculation formula:
+# AQI calculation formula:
 
 Taken from here: https://www.kaggle.com/code/oluchiai/calculating-aqi-air-quality-index-tutorial
 
@@ -19,9 +19,9 @@ and here: https://www.civilsdaily.com/news/air-quality-index-aqi/
 
 
 
-# AQI Indext bucketing:
+# AQI Index bucketing:
 
-Thaken from here: https://swachhindia.ndtv.com/air-pollution-what-is-air-quality-index-how-is-it-measured-and-its-health-impact-40387/
+Taken from here: https://swachhindia.ndtv.com/air-pollution-what-is-air-quality-index-how-is-it-measured-and-its-health-impact-40387/
 
 ![image](https://github.com/Natashik85/SDA_Final_Project/assets/117021989/bc4034e7-03d4-47b2-adab-98dc56743ee4)
 
